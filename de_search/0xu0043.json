@@ -1,0 +1,14 @@
+[
+	{ "s": "CAMPO", "p": [4, 3] },
+	{ "s": "CANTIDAD", "p": [4, 3] },
+	{ "s": "CATEGORIA", "p": [3, 4] },
+	{ "s": "CATEGORIAS", "p": [3] },
+	{ "s": "CIUDAD", "p": [1] },
+	{ "s": "CLAVE", "p": [8, 7, 6, 5] },
+	{ "s": "CLIENTES", "p": [6] },
+	{ "s": "COMERCIAL", "p": [1] },
+	{ "s": "CONTENEDOR", "p": [4, 3] },
+	{ "s": "CONTRASEÑA", "p": [2] },
+	{ "s": "CREAR", "p": [3, 4] },
+	{ "s": "CUADRO", "p": [4, 3] }
+]

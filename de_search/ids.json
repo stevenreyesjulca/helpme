@@ -1,0 +1,10 @@
+{
+	"1": ["Página p... ¡Se requiere una licencia Advanced!", "index.htm", []],
+	"2": ["1. Acceso ... ¡Se requiere una licencia Advanced!", "acceso_al_sistema.htm", []],
+	"3": ["2. Cat... ¡Se requiere una licencia Advanced!", "categoria.htm", []],
+	"4": ["3. Pr... ¡Se requiere una licencia Advanced!", "producto.htm", []],
+	"5": ["4. Fact... ¡Se requiere una licencia Advanced!", "facturacion.htm", []],
+	"6": ["5. Cl... ¡Se requiere una licencia Advanced!", "clientes.htm", []],
+	"7": ["6. Pro... ¡Se requiere una licencia Advanced!", "proveedor.htm", []],
+	"8": ["7. Us... ¡Se requiere una licencia Advanced!", "usuarios.htm", []]
+}

@@ -1,0 +1,11 @@
+[
+	{ "s": "PALABRA", "p": [8, 7, 6, 5] },
+	{ "s": "PARA", "p": [8, 7, 6, 5, 4, 3, 2, 1] },
+	{ "s": "PEDIRÁ", "p": [2] },
+	{ "s": "PENDIENTES", "p": [8, 7, 6, 5] },
+	{ "s": "PRINCIPAL", "p": [1] },
+	{ "s": "PRODUCTO", "p": [4] },
+	{ "s": "PRODUCTOS", "p": [4, 3] },
+	{ "s": "PROVEEDOR", "p": [7] },
+	{ "s": "PÁGINA", "p": [1] }
+]
